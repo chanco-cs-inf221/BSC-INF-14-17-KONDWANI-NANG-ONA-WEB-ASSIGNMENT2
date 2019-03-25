@@ -1,0 +1,17 @@
+#container{
+    border: 5px solid purple;
+   text-align: center;
+   background-color:rgb(37, 100, 134)}
+   
+                
+.courses{
+border: 1px solid brown;
+text-align:center;
+width: 30%;
+float: left;
+margin: 20px;
+background-color: gainsboro;
+}
+header{
+  background-color: powderblue
+}
